@@ -37,4 +37,7 @@ In this section, the model is predicting the values of target column(Whether dis
 1 -> disease 
 
 <b><ins>Section 6:</ins> Accuracy and Confusion Matrix</b><br> 
-Here, I am using sklearn methods to find the accuracy of my model. Accuracy of my model comes out to be <b>98.3</b>. I also made a confusion matrix to see 
+Here, I am using sklearn methods to find the accuracy of my model. Accuracy of my model comes out to be <b>98.3</b>. 
+  
+<b>KNN Algorithm</b> ->
+KNN stands for K Nearest Neighbors algorithm. It is supervised learning algorithm. K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories. K-NN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems.
