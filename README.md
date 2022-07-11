@@ -19,7 +19,7 @@ The analysis has been broadly divided into six sections.
 <li>Accuracy and Confusion Matrix</li>
 </ol>
 
-<b><ins>Section 1:</ins> Importing Libraries and Reading the dataset<b><br>
+<b><ins>Section 1:</ins> Importing Libraries and Reading the dataset</b><br>
 In this section, I am importing all the necessary python libraries like numpy, pandas, matplotlib, sklearn, etc. Along with this, I am reading the dataset using read_csv method. 
 
 <b><ins>Section 2:</ins> EDA(Exploratory Data Analysis)</b><br>
